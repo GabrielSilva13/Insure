@@ -1,0 +1,37 @@
+{
+  "name": "insure",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.2.1",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@fontsource/dm-serif-display": "^4.5.7",
+    "@fontsource/karla": "^4.5.8",
+    "@types/react-modal": "^3.13.1",
+    "framer-motion": "^6",
+    "i18next": "^21.8.9",
+    "i18next-browser-languagedetector": "^6.1.4",
+    "i18next-http-backend": "^1.4.1",
+    "next": "12.1.6",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-i18next": "^11.17.1",
+    "react-modal": "^3.15.1",
+    "sharp": "^0.30.6"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.41",
+    "@types/react": "18.0.12",
+    "@types/react-dom": "18.0.5",
+    "eslint": "8.17.0",
+    "eslint-config-next": "12.1.6",
+    "typescript": "4.7.3"
+  }
+}
